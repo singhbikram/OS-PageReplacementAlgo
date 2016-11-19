@@ -1,0 +1,181 @@
+OVERALL AVERAGES of PAGE REPLACEMENT Algorithms Simulator
+
+1. FIFO = 3.4563106796116503
+2. Random = 3.1258 
+3. LFU = 0.73292
+4. MFU = 0.4168722
+5. LRU = 0.362248
+
+
+RANDOM
+
+----------------Page Replacement Alg. Random DONE------------------
+hit count:  361
+miss count: 128
+Hit/miss ratio: 2.8203125
+
+----------------Page Replacement Alg. Random DONE------------------
+hit count:  342
+miss count: 98
+Hit/miss ratio: 3.489795918367347
+
+----------------Page Replacement Alg. Random DONE-----------------
+hit count:  338
+miss count: 125
+Hit/miss ratio: 2.704
+
+----------------Page Replacement Alg. Random DONE------------------
+hit count:  329
+miss count: 88
+Hit/miss ratio: 3.7386363636363638
+
+
+----------------Page Replacement Alg. Random DONE------------------
+hit count:  333
+miss count: 115
+Hit/miss ratio: 2.8956521739130436
+
+
+AVERAGE HIT/MISS RATIO = 3.1258 
+
+FIFO
+
+----------------Page Replacement Alg. FIFO DONE------------------
+
+hit count:  356
+miss count: 103
+Hit/miss ratio: 3.4563106796116503
+
+
+----------------Page Replacement Alg. FIFO DONE------------------
+
+hit count:  354
+miss count: 219
+Hit/miss ratio: 1.6164383561643836
+
+----------------Page Replacement Alg. FIFO DONE------------------
+
+hit count:  356
+miss count: 103
+Hit/miss ratio: 3.4563106796116503
+
+----------------Page Replacement Alg. FIFO DONE------------------
+
+hit count:  310
+miss count: 295
+Hit/miss ratio: 1.0508474576271187
+
+----------------Page Replacement Alg. FIFO DONE------------------
+
+hit count:  324
+miss count: 114
+Hit/miss ratio: 2.8421052631578947
+
+AVERAGE HIT/MISS RATIO = 2.48436 
+
+
+LFU
+
+----------------Page Replacement Alg. LFU DONE------------------
+
+hit count:  361
+miss count: 420
+Hit/miss ratio: 0.8595238095238096
+
+----------------Page Replacement Alg. LFU DONE------------------
+
+hit count:  352
+miss count: 511
+Hit/miss ratio: 0.6888454011741683
+
+----------------Page Replacement Alg. LFU DONE------------------
+
+hit count:  343
+miss count: 440
+Hit/miss ratio: 0.7795454545454545
+
+----------------Page Replacement Alg. LFU DONE------------------
+
+hit count:  344
+miss count: 516
+Hit/miss ratio: 0.6666666666666666
+
+----------------Page Replacement Alg. LFU DONE------------------
+
+hit count:  345
+miss count: 514
+Hit/miss ratio: 0.6712062256809338
+
+AVERAGE HIT/MISS RATIO = 0.73292
+
+MFU
+
+----------------Page Replacement Alg. MFU DONE------------------
+
+hit count:  364
+miss count: 873
+Hit/miss ratio: 0.41695303550973656
+
+
+----------------Page Replacement Alg. MFU DONE------------------
+
+hit count:  374
+miss count: 710
+Hit/miss ratio: 0.5267605633802817
+
+----------------Page Replacement Alg. MFU DONE------------------
+
+hit count:  328
+miss count: 879
+Hit/miss ratio: 0.3731513083048919
+
+----------------Page Replacement Alg. MFU DONE------------------
+
+hit count:  358
+miss count: 913
+Hit/miss ratio: 0.39211391018619934
+
+----------------Page Replacement Alg. MFU DONE------------------
+
+hit count:  332
+miss count: 884
+Hit/miss ratio: 0.3755656108597285
+
+AVERAGE HIT/MISS RATIO = 0.4168722
+
+
+LRU
+
+----------------Page Replacement Alg. LRU DONE------------------
+
+hit count:  340
+miss count: 905
+Hit/miss ratio: 0.3756906077348066
+
+----------------Page Replacement Alg. LRU DONE------------------
+
+hit count:  370
+miss count: 1021
+Hit/miss ratio: 0.3623898139079334
+
+----------------Page Replacement Alg. LRU DONE------------------
+
+hit count:  350
+miss count: 1005
+Hit/miss ratio: 0.3482587064676617
+
+----------------Page Replacement Alg. LRU DONE------------------
+
+hit count:  354
+miss count: 896
+Hit/miss ratio: 0.3950892857142857
+
+----------------Page Replacement Alg. LRU DONE------------------
+
+hit count:  356
+miss count: 827
+Hit/miss ratio: 0.43047158403869407
+
+AVERAGE HIT/MISS RATIO = 0.362248
+
+
